@@ -1,16 +1,12 @@
-# game_app_ui
+# 🎮 Flutter Game App UI
 
-A new Flutter project.
+A static game app home UI built using Flutter. This UI template showcases featured games, top games, and simulator games in a well-structured and visually appealing layout. Other functionalities will be added later.
 
-## Getting Started
+✨ Features
 
-This project is a starting point for a Flutter application.
+Modern and responsive game home screen
 
-A few resources to get you started if this is your first Flutter project:
+List of featured games, top games, and simulator games
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📱 Screenshots
+<img width="374" alt="image" src="https://github.com/user-attachments/assets/9004f62c-a7c4-41ed-b396-c87b424fa398" />
